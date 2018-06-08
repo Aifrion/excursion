@@ -23,5 +23,15 @@ p {
 h2 {
   font-family: verdana;
   font-size: 21px;
+  color: gray;c
+}
+#bottom{
+  font-family: verdana;
+  font-size: 21px;
   color: gray;
+  text-align:right;
+}
+
+#coming-soon {
+  cursor: pointer;
 }
